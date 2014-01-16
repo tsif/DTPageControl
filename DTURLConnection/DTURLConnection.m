@@ -26,6 +26,10 @@
 	return self;
 }
 
+- (NSString *)description {
+	return [NSString stringWithFormat:@"%@: %d data", [super description], [_data count]];
+}
+
 #pragma mark - PROPERTIES
 
 - (void)setMetaObject:(id)object forKey:(NSString *)key {
