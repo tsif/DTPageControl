@@ -1,4 +1,6 @@
 DTURLConnection
 =============
 
-NSURLConnection subclass allows the association of data to a connection. Useful for concurrent multiple request within a single object.
+Allows the association of data to a connection.
+
+Use for concurrent multiple request within a single object.
