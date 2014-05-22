@@ -15,4 +15,4 @@ Use for concurrent multiple request within a single object.
 
 Licensed under the [MIT License](LICENSE-MIT)
 
-[tsif]: https://github.com/thanpolas "tsif"
+[tsif]: https://github.com/tsif
